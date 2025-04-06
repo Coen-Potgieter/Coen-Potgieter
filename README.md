@@ -28,7 +28,7 @@ I am currently studying in my fourth and final year of Data Engineering at Stell
 - [Coen-Potgieter/MLP](https://github.com/Coen-Potgieter/MLP)
 - [Coen-Potgieter/Chess-Encoding](https://github.com/Coen-Potgieter/Chess-Encoding)
 
-# Github Stats
+# Github Stats 📈
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coen-potgieter&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coen-potgieter&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
