@@ -7,8 +7,8 @@ I am currently studying in my fourth and final year of Data Engineering at Stell
 
 ## 🪽 [Coen-Potgieter/boids](https://github.com/Coen-Potgieter/boids/tree/master) | 🪐 [Coen-Potgieter/three-body-orbits](https://github.com/Coen-Potgieter/three-body-orbits/tree/main)
 <p style="display: flex; align-items:center">
-    <img src="https://github.com/Coen-Potgieter/boids/blob/master/assets/gifs/boids.gif" width="500" alt="Demo">
-    <img src="https://github.com/Coen-Potgieter/three-body-orbits/blob/main/assets/demo/broukeA3.gif" width="500" alt="Demo">
+    <img src="https://github.com/Coen-Potgieter/boids/blob/master/assets/gifs/boids.gif" width="400" alt="Demo">
+    <img src="https://github.com/Coen-Potgieter/three-body-orbits/blob/main/assets/demo/broukeA3.gif" width="400" alt="Demo">
 </p>
 
 ## 🧠🎓 [Coen-Potgieter/visualising-neural-networks](https://github.com/Coen-Potgieter/visualising-neural-networks/tree/main)
