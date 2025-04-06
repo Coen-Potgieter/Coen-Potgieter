@@ -13,14 +13,14 @@ I am currently studying in my fourth and final year of Data Engineering at Stell
 
 ## 🧠🎓 [Coen-Potgieter/visualising-neural-networks](https://github.com/Coen-Potgieter/visualising-neural-networks/tree/main)
 <p style="display: flex; align-items:center">
-    <img src="https://github.com/Coen-Potgieter/visualising-neural-networks/blob/main/Assets/demo/sum-of-sins-low-lr.gif" width="500" alt="Demo">
-    <img src="https://github.com/Coen-Potgieter/visualising-neural-networks/blob/main/Assets/demo/parabola-3d.gif" width="500" alt="Demo">
+    <img src="https://github.com/Coen-Potgieter/visualising-neural-networks/blob/main/Assets/demo/sum-of-sins-low-lr.gif" width="400" alt="Demo">
+    <img src="https://github.com/Coen-Potgieter/visualising-neural-networks/blob/main/Assets/demo/parabola-3d.gif" width="400" alt="Demo">
 </p>
 
 ## 🐤 [Coen-Potgieter/ml-flappy-bird](https://github.com/Coen-Potgieter/ml-flappy-bird) | 🧬 [Coen-Potgieter/ml-dots](https://github.com/Coen-Potgieter/ml-dots)
 <p style="display: flex; align-items:center">
-    <img src="https://github.com/Coen-Potgieter/ml-flappy-bird/blob/main/Assets/demo.gif" width="600" alt="Demo">
-    <img src="https://github.com/Coen-Potgieter/ml-dots/blob/main/Assets/demo.gif" width="400" alt="Demo">
+    <img src="https://github.com/Coen-Potgieter/ml-flappy-bird/blob/main/Assets/demo.gif" width="300" alt="Demo">
+    <img src="https://github.com/Coen-Potgieter/ml-dots/blob/main/Assets/demo.gif" width="200" alt="Demo">
 </p>
 
 ## Others Of Note
