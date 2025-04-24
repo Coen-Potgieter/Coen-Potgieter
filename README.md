@@ -5,6 +5,13 @@ I am currently studying in my fourth and final year of Data Engineering at Stell
 
 # Projects 🚀
 
+
+## 🎭 [Coen-Potgieter/faces-VAE](https://github.com/Coen-Potgieter/faces-VAE/tree/main) 
+<p style="display: flex; align-items:center">
+    <img src="https://github.com/Coen-Potgieter/faces-VAE/blob/main/assets/demo/sliders.gif" width="400" alt="Demo">
+    <img src="https://github.com/Coen-Potgieter/faces-VAE/blob/main/assets/demo/drawing.gif" width="400" alt="Demo">
+</p>
+
 ## 🪽 [Coen-Potgieter/boids](https://github.com/Coen-Potgieter/boids/tree/master) | 🪐 [Coen-Potgieter/three-body-orbits](https://github.com/Coen-Potgieter/three-body-orbits/tree/main)
 <p style="display: flex; align-items:center">
     <img src="https://github.com/Coen-Potgieter/boids/blob/master/assets/gifs/boids.gif" width="400" alt="Demo">
